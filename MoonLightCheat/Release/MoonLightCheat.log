@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2001: неразрешенный внешний символ ""class CNetVars * netVars" (?netVars@@3PAVCNetVars@@A)"
+C:\Users\pakpa\source\repos\MoonLightCheat\Release\MoonLightCheat.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
